@@ -14,7 +14,7 @@ Usage
 
 Example
 ------
-![画像1](https://raw.github.com/fumiz/PerlHierarchyVisualizer/doc/example.png "diagram example")
+![画像1](https://github.com/fumiz/PerlHierarchyVisualizer/raw/master/doc/example.png "diagram example")
 
 visualized by [Cytoscape](http://www.cytoscape.org/)
 
